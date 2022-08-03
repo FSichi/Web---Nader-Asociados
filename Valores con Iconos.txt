@@ -1,0 +1,53 @@
+	<!-- Valores -->
+	<div id="about" class="section md-padding">
+		<div class="container">
+			<div class="row">
+
+				<!-- Section header -->
+				<div class="section-header text-center">
+					<h2 class="title">Nuestros Valores</h2>
+				</div>
+				<!-- /Section header -->
+
+
+				<div class="col-md-3">
+					<div class="about">
+						<img class="svg-valores" src="./img/svg/especificidad.svg" alt="empathy">
+						<h3>Especificidad</h3>
+						<!-- <p>Aplicaciones personalizadas que se adecuen a tus necesidades</p> -->
+					</div>
+				</div>
+
+
+				<div class="col-md-3">
+					<div class="about">
+						<img class="svg-valores" src="./img/svg/transparencia.svg" alt="empathy">
+						<h3>Transparencia</h3>
+						<!-- <p>Soluciones Personalizadas para Dispositivos Moviles Android e IOS</p> -->
+					</div>
+				</div>
+
+				<!-- about -->
+				<div class="col-md-3">
+					<div class="about">
+						<img class="svg-valores" src="./img/svg/innovacion.svg" alt="empathy">
+						<h3>Innovacion</h3>
+						<!-- <p>Programamos y Diseñamos tu Pagina Web para Empresas.</p> -->
+					</div>
+				</div>
+				<!-- /about -->
+
+				<!-- about -->
+				<div class="col-md-3">
+					<div class="about">
+						<img class="svg-valores" src="./img/svg/empatia.svg" alt="empathy">
+						<h3>Empatia</h3>
+						<!-- <p>Programamos y Diseñamos tu Pagina Web para Empresas.</p> -->
+					</div>
+				</div>
+				<!-- /about -->
+
+			</div>
+		</div>
+	</div>
+	<!-- /Valores -->
