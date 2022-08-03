@@ -453,7 +453,7 @@ header {
     }
 
     h1.white-text {
-        font-size: 3.554rem;
+        font-size: 3.25rem;
     }
 
     h2.white-text {
@@ -463,7 +463,7 @@ header {
     h2.white-text.subtitle {
         margin-left: 0%;
         margin-top: 10%;
-        font-size: 2.6rem;
+        font-size: 2.4rem;
     }
 }
 
