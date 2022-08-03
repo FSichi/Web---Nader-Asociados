@@ -1,3 +1,11 @@
+@import url(//db.onlinewebfonts.com/c/39647bd50f6ae4309c41f87b703e6b70?family=Blair+ITC+Std);
+
+@font-face {
+    font-family: "Blair ITC Std";
+    src: url("//db.onlinewebfonts.com/t/39647bd50f6ae4309c41f87b703e6b70.eot");
+    src: url("//db.onlinewebfonts.com/t/39647bd50f6ae4309c41f87b703e6b70.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/39647bd50f6ae4309c41f87b703e6b70.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/39647bd50f6ae4309c41f87b703e6b70.woff") format("woff"), url("//db.onlinewebfonts.com/t/39647bd50f6ae4309c41f87b703e6b70.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/39647bd50f6ae4309c41f87b703e6b70.svg#Blair ITC Std") format("svg");
+}
+
 /*------------------------------------*\
 	General
 \*------------------------------------*/
@@ -200,7 +208,7 @@ header {
     text-transform: uppercase;
     font-size: 8rem;
     font-family: 'Blair ITC Std'
-    /* font-family: 'Work Sans'; */
+        /* font-family: 'Work Sans'; */
 
 }
 
@@ -216,7 +224,7 @@ header {
     margin-right: 10%;
 }
 
-.order-content{
+.order-content {
     display: flex;
     justify-content: center;
     flex-direction: row;
@@ -401,7 +409,7 @@ header {
     margin: 0;
 }
 
-.footer-responsive{
+.footer-responsive {
     margin-bottom: 5%;
 }
 
